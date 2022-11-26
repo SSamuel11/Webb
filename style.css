@@ -1,0 +1,15 @@
+
+table tr td {
+    border: 2px solid black;
+    
+}
+.big-header {
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+    background-color: bisque;
+}
+.part-div {
+    background-color: beige;
+}
