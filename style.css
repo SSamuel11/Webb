@@ -37,5 +37,9 @@ font-style: italic;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 body {
-   background-color: black;
+   background-color: rgb(3, 255, 234);
+}
+
+.aside{
+    width: 40px;
 }
