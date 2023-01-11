@@ -1,13 +1,29 @@
 *{
- border: 1px solid antiquewhite;
+ border: 1px solid rgb(30, 29, 27);
  
 }
 
 #big-header{
-    border: 2px solid blueviolet;
+    border: 2px solid rgb(92, 5, 174);
     font-style: italic;
 }
 
 a[href*='florence'] {
     color: blanchedalmond;
 }
+
+a[href*='tigerr'] {
+    color: rgb(158, 142, 228);
+   
+}
+
+a:hover{
+    color: rgb(205, 104, 2);
+}
+
+.Sub-speices{
+    color: rgb(209, 16, 161);
+}
+
+
+
