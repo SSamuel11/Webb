@@ -25,5 +25,19 @@ a:hover{
     color: rgb(209, 16, 161);
 }
 
+.Not-main li {
+    font-family: cursive;
+  color:rgb(0, 110, 73);
+}
 
+.Recks h5 li {
+    color: rgb(213, 0, 0);
+}
 
+h5 {
+    color: aquamarine;
+}
+
+#Recks {
+    color: black;
+}
