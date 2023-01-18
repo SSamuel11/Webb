@@ -34,10 +34,10 @@ a:hover{
     color: rgb(213, 0, 0);
 }
 
-h5 {
-    color: aquamarine;
+h1,h2 {
+    text-align: center;
 }
 
-#Recks {
-    color: black;
+#textt {
+    text-align:center ;
 }
