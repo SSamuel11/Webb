@@ -1,0 +1,31 @@
+tr,td{
+    border: 2px solid antiquewhite;
+}
+
+.cities{
+    border: 2px solid yellow;
+    color: brown;
+}
+
+a[href*="Pineapple"] {
+    color: blanchedalmond;
+}
+a[href*="Apple"] {
+    color: chartreuse;
+}
+
+a[href*="cherry"] {
+    color: cornsilk;
+}
+
+a[href*="Watermelon"] {
+    color: rgb(126, 5, 218);
+}
+
+a:hover {
+    color: rgb(31, 2, 2);
+}
+
+label:hover {
+    color: blue;
+}
