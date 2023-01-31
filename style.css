@@ -30,8 +30,9 @@ a:hover{
   color:rgb(0, 110, 73);
 }
 
-.Recks h5 li {
-    color: rgb(213, 0, 0);
+.Names li {
+    color: bisque;
+    font-style: italic;
 }
 
 h1,h2 {
