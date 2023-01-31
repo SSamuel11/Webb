@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body class="container">
+    <label for="Same">choose yor cat</label>
+    <input type="text" id="Same"  name="cat" value="cats">
+    <br>
+    <hr>
+    <section>
+      <span style="text-align:center;">New york or Rome</span>
+      <br>
+      <input id="rome" type="radio" name="city">
+      <label for="rome">Rome</label>
+      
+    
+      <input id="mid-york" type="radio" name="city">
+      <label for="mid-york">Mid york</label>
+      <hr>
+    </section>
+    <section class="number">
+        <label for="patty">how many patty</label>
+        <input type="number" id="patty" name="patty" min="5" max="10">
+        <hr>
+
+    </section>
+    <section>
+        <label for="pass">choose your password</label>
+        <input type="password" id="pass" name="password" minlength="7" maxlength="12" required>
+        <br>
+        <span>minimum 7 maximum 12</span>
+        <br>
+        <hr>
+        <span>1</span>
+        
+        <input type="range" id="age" name="age" required step="0.5">
+        <span>16</span>
+        <br>
+        <label for="age">enter your age</label>
+        <hr>
+
+    </section>
+    <section>
+        <span>have some of</span>
+        <br>
+        <input type="checkbox" id="Pineapple" name="fruit">
+        <label for="Pineapple">Pineapple</label>
+
+        <input type="checkbox" id="apple" name="fruit">
+        <label for="apple">Apple</label>
+
+        <input type="checkbox" id="cherries" name="fruit">
+        <label for="cherries">Cherries</label>
+
+        <input type="checkbox" id="watermelon" name="fruit">
+        <label for="watermelon">watermelon</label>
+        <br>
+        <hr>
+    </section>
+
+    <section>
+        <label for="bakeries">choose the bread of your dreams</label>
+        <select id="bakeries">
+            <option value="banana bread">Banana bread</option>
+            <option value="muffines">muffines</option>
+            <option value="bagles">Bagles</option>
+        </select>
+        <br>
+        <hr>
+        <label for="bread">Choose more bread</label>
+        <input type="bread" name="bread" id="bread" list="breads">
+        <datalist id="breads">
+            <option value="greek-bread">greek-bread</option>
+            <option value="cheese-bread">cheese-bread</option>
+            <option value="chocolate-bread">chocolate-bread</option>
+            <option value="cactus-bread">cactus-bread</option>
+        </datalist>
+        <br>
+        <hr>
+
+    </section>
+    <label for="more">anything else</label>
+    <textarea id="more" name="more" cols="30" rows="5"></textarea>
+
+    
+
+</body>
+</html>
