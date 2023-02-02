@@ -37,8 +37,20 @@ a:hover{
 
 h1,h2 {
     text-align: center;
+    opacity: initial;
 }
 
 #textt {
     text-align:center ;
+}
+
+.Names li {
+    list-style: upper-roman;
+}
+
+h1 {
+    font-size: 31px;
+    font-family: cursive;
+    text-align: center;
+    
 }
