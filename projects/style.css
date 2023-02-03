@@ -1,3 +1,7 @@
+body{
+    background-image: url("https://wallpapercave.com/w/vmmH3NQs");
+    background-color: blanchedalmond;
+}
 tr,td{
     border: 2px solid antiquewhite;
 }
@@ -34,15 +38,33 @@ h3.contaner {
     color: brown;
 }
 
-h3 {
-    color: blueviolet;
-}
 p.bordd { 
     font-size: larger;
     color: yellowgreen;
 }
 
 .cities{
-    border: 2px dotted blue;
+    border: 2px solid rgb(0, 0, 0);
+    text-align: center;
+    width: 600px;
+    height: 40px;
+    border-radius: 34px;
+    
+}
+
+#send-button {
+    
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 20px;
+    width: 5px;
+    height: 10px;
+}
+.password {
+    border: 2px solid yellow;
+    max-inline-size: 560px;
+    border-radius: 20px;
+    padding-top: 4vh;
+    padding-left: 1px;
     
 }
