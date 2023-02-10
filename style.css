@@ -1,10 +1,9 @@
 .border {
     border: 3px solid blue;
-    padding: 15px 5rem;
-    margin: 45px;
-    margin-top: 20px;
-    margin-left: 10px;
-    margin-right: 150px;
+    padding: 50px black;
+    margin: 30px red ; 
+    
+    
     
 }
 
@@ -51,11 +50,34 @@ h1,h2 {
 
 .Names li {
     list-style: upper-roman;
+    width: 40px;
+    margin: 0 auto;
+
 }
 
 h1 {
     font-size: 31px;
     font-family: cursive;
     text-align: center;
+    
+}
+
+.fixed {
+    border: 3px solid black;
+    padding: 10px;
+    margin: 20px 15px 12px blue;
+    width: 60%;
+    position: relative;
+    top: 27px;
+    right: 8px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: red;
+    background-color: blue;
+    
+    
+   
+    
+    
     
 }
