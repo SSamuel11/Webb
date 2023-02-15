@@ -74,10 +74,20 @@ h1 {
     text-align: center;
     color: red;
     background-color: blue;
+}
+
+.About {
+    letter-spacing: 2px;
     
-    
-   
-    
-    
-    
+}
+
+.About p {
+    word-spacing: 2px;
+    text-align: justify;
+}
+
+.space li {
+    letter-spacing: 2px;
+    word-spacing: 4px;
+    text-align: justify;
 }
