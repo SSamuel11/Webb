@@ -1,7 +1,6 @@
 
 
 .container{
-
     background-color: whitesmoke;
     width: 100vw;
     height: 250px;
@@ -14,9 +13,9 @@
     border:2px solid black;
     height: 100px;
     width: 100px;
-   
+    
     
 }
 #flexstart{
-justify-content: space-between;
+align-items: flex-start;
 }
