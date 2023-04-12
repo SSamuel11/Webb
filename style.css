@@ -74,6 +74,7 @@ h1 {
     text-align: center;
     color: red;
     background-color: blue;
+    position: f;
 }
 
 .About {
@@ -90,4 +91,10 @@ h1 {
     letter-spacing: 2px;
     word-spacing: 4px;
     text-align: justify;
+}
+
+.beginning .middle {
+    color: blue;
+    background-color: rgba(0,200,0, 0.9);
+
 }
