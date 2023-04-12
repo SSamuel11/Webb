@@ -6,6 +6,7 @@
     height: 250px;
     display: flex;
     margin: 20px;
+
 }
 
 .Block{
@@ -17,5 +18,5 @@
     
 }
 #flexstart{
-align-items: flex-end;
+align-items: center;
 }
