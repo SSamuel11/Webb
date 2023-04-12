@@ -1,0 +1,22 @@
+
+
+.container{
+
+    background-color: whitesmoke;
+    width: 100vw;
+    height: 250px;
+    display: flex;
+    margin: 20px;
+}
+
+.Block{
+    background-color: blue;
+    border:2px solid black;
+    height: 100px;
+    width: 100px;
+   
+    
+}
+#flexstart{
+justify-content: space-between;
+}
