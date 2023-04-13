@@ -1,5 +1,4 @@
 
-
 .container{
     background-color: whitesmoke;
     width: 100%;
@@ -7,7 +6,7 @@
     display: flex;
     margin: 20px;
     justify-content: space-around;
-
+   
 }
 
 .Block{
@@ -15,10 +14,6 @@
     border:2px solid black;
     height: 100px;
     width: 100px;
-    
-    
-    
-    
 }
 
 .lock{
@@ -26,9 +21,8 @@
     border: 2px solid black;
     height: 100px;
     width: 100px;
-    flex-grow: 1;
-    
-   
+    flex-shrink: 3; 
+    flex-basis: 0;
 }
 
 
